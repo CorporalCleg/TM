@@ -1,1 +1,1 @@
-print('Sanya, ti v poriadke')
+print('Sanya, ti v poriadke?')
